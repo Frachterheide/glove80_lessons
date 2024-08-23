@@ -1,0 +1,719 @@
+<?xml version="1.0"?>
+<course>
+ <id>{f1417eb9-95e1-4aaa-8d1d-e5c00aff60c1}</id>
+ <title>Deutsch VOU</title>
+ <description>Basiert auf KOY-Kurs von Henry Jobst.Entsprechend eigener Version des VOU Layout auf Glove80 Tastatur angepasst. VOU-Layout Buchstaben folgen der ursprünglichen Fingerabfolge; Wörter je Lektion entsprechend verändert/ersetzt.
+Henry Jobst; KOY-Kurs: https://gitlab.com/HJ70/koy-layout-for-ktouch
+VOU-Layout: https://www.maximilian-schillinger.de/vou-layout.html
+VOU angepasst: https://my.glove80.com/#/layout/user/f2e9cfa6-ceff-491c-bd3c-8de07ca44b54
+</description>
+ <keyboardLayout>VOUxPrimeagenDvorak_v3</keyboardLayout>
+ <lessons>
+  <lesson>
+   <id>{1f3f29f4-cfc8-4347-8cf4-d53bb3fc40f3}</id>
+   <title>Zeigefinger: i und t</title>
+   <newCharacters>it</newCharacters>
+   <text>it tt tt ti ti ttt it tti it tti itit ii itt titt ti itt ti
+ttt tt tii ii iti iitt it tti it tt iii iiii tt tti iiti tt
+iii it ttt tt iii it tt itt tt tit ti tit ttit ti tit ti ii
+iit ti iit tt it iii tt iti iiii ti tti ii itt ii tt ii tit
+titi ii iti it ti itt tt iti iitt ii tt iit ittt ti it tit
+ttit ii ii tii ti iii tiit it tii iitt tt it iti it ii tii
+tttt ii tii ittt tt tit it iii tt iit it i</text>
+  </lesson>
+  <lesson>
+   <id>{c7dad24f-300b-4908-b60d-5cd55e3ab0cc}</id>
+   <title>Mittelfinger: e und r</title>
+   <newCharacters>er</newCharacters>
+   <text>rr rr rer rr rer rere ee eer reee re re eee rr rrr er eer
+erre rr ere rr ree rrer ee er re rre ee rrr re rrr eeer rr
+rr ee ee rer eeee rr er ree re rrr rrrr er ree er eee reer
+rr ree erre re ere eeee er er ree er eer eeer rr rer erre
+ee rrr er re re rr er rer rr eer eeer rr rer erer er rrr ee
+rr ree ee er eee re rer re er ee rr er err ee eee rerr er
+rrr rere re rre er ree eeer rr re eee ee er reer</text>
+  </lesson>
+  <lesson>
+   <id>{93662324-4ed2-4e56-bf46-a6591c9c36b2}</id>
+   <title>Ringfinger: a und n</title>
+   <newCharacters>an</newCharacters>
+   <text>nn naa nnaa aa na aa an nna aana na ann anna an na nna nnan
+aa nan aa nn ann nnnn nn ana naaa an nnn aann na aa aa nna
+an nna an aaa an na ana aann nn aan nn nna aa aa ann naaa
+aa nnn an aan anan nn nan nnna nn an nnn na na nan aa an
+nna aa aa ana nnan nn ana nnaa na naa ann an aaa na naa
+anaa an aan nana na aan an ana nnaa nn nnn aa ana an aa an
+nna an an naa nn nn ann an nnn aa nan anan nn na an</text>
+  </lesson>
+  <lesson>
+   <id>{a6f61032-05de-4355-956c-c6100910e03f}</id>
+   <title>Kleiner Finger: c und s</title>
+   <newCharacters>cs</newCharacters>
+   <text>sc ssc cs csc cs ssc cc csc cc css scss cs cc css scsc sc
+cc sss csss cs scc cscs ss ccc cssc sc css ss css ss ccc
+sscs ss ss ssc cccs cc scs scss sc sc ss csc sc ccs cs csc
+scss sc sc cc ss ssc sc scc sc scc ss ss sc cs ccc cssc ss
+cs css sssc cs cc ss sss cs scc sssc cs scc sc ccs ss cs
+scc ss sss sccs cc scc ccss cc ssc ccsc ss css sc ccc cs
+sc csc ssss cc sss sscs cs ssc cs sss cccc cc scs csc</text>
+  </lesson>
+  <lesson>
+   <id>{e9aa0706-df52-4e9e-bf89-fb1432d2db76}</id>
+   <title>Grundhaltung (1) - Mix</title>
+   <newCharacters></newCharacters>
+   <text>rn et st rsr incn ne sa asi ir crt stns ia ec tcn tcen re
+it rts atat na nei aiie aa esa rtnc it ira csci rc ee nsn
+rtsn tc ire irit sc are sn sc rcn srci rc aat si nr era arta
+et sn ret re nai sn rsi rene ir ris icni na nns ei tce tani
+it ss rsi ecis ar stt rt ie ci nt ini ti int ai eas ec ean
+srns es en irn rsee as cit ic sns te art ae sn ne in ct tei
+crta cr ica at ri nai ieaa ti cct nacn as tc aet eien ri
+rta itie na ci ra rrn saia ts rr ttt ai rcr tice tc ien es
+ncn scec ac sc nir rt tnc nai</text>
+  </lesson>
+  <lesson>
+   <id>{43e4b9ad-b7b9-4031-ad5b-cf9a2cb19784}</id>
+   <title>Grundhaltung (2) - bis 3 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>sat tie err sac ten net sic arc can sin ant car ate ire
+ran cat nit inn act tat ice tar see set rat sir air tit
+ear tan ace ani tee art sit ere sea tin tic eat era eta
+tea are art air era inn net car tan sir ice ere nit tea
+act sea cat tin are sac tat err tee sat arc ten sic see
+ace tic ant rat can sin ear tar ani sit set eat ran tit
+eta tie ire ate ani tit inn tar sin ere are eta cat sit
+tan arc sat act see tee ten ran air era nit net sea ate
+err ice can ace ear tic tie rat set ire tin sic car art
+sac sir tat ant eat teatat can tan act sit eta tee tit
+set art eat ate sea sir ear rat sac net ant air inn sic
+are ani nit err cat ire tie sin sat car tin ran tic ten
+see arc ere era ice ace tar teatat can tan act sit eta
+tee tit set art eat ate sea sir ear rat sac net ant air
+inn sic are ani nit err cat ire tie sin sat car tin ran
+tic ten see arc ere era ice ace tar teatat can tan act
+sit eta tee tit set art eat ate sea sir ear rat sac net
+ant air inn sic are ani nit err cat ire tie sin sat</text>
+  </lesson>
+  <lesson>
+   <id>{ab883932-6bec-49a8-bdc5-056698183a23}</id>
+   <title>Grundhaltung (3) - bis 4 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>neat air star see rein tare sire rent sere tern earn tsar
+ten tic case art scar ante tire ran nest ant near rain tact
+cent sear sin tat sent nite acre teat ani tint sane scat ace
+scan ear acne race site rant inn sir sari rare car rite eat
+snit are area teen tee tea cite sine narc sit ire seat ease
+test tar era act sac sea tree cat stir sate net care sera
+tan aria rear cast tin tier seer tear sic tit sect tent nine
+eta sat err anti tine rice east rate nice ere ate tart cart
+set can nit arc rat tie rest ice seen cane cant rise tart
+snit are area teen tee tea cite sine narc sit ire seat ease
+test tar era act sac sea tree cat stir sate net care sera
+cent sear sin tat sent nite acre teat ani tint sane scat ace
+neat air star see rein tare sire rent sere tern earn tsar
+eta sat err anti tine rice east rate nice ere ate tart cart
+snit are area teen tee tea cite sine narc sit ire seat ease
+nite sane scat sent ice act teat sin cant tern set sea nit
+tact era inn art tan stir ace cast east earn sar</text>
+  </lesson>
+  <lesson>
+   <id>{73796b74-a317-4a60-87c2-c5d633e65bda}</id>
+   <title>Grundhaltung (4) - bis 5 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>starr irrt erst riet irrt teert irrt irrt starr starr
+starr riet starr starr riet tarnt irrt erst irrt riet
+riet starr starr eines irrte irrt nett nett erst nett
+nett nett irrt tarnt tarnt starr teert irrt reist erst
+irrt starr irrt riet teert starr erst irrte teert starr
+erst riet tarnt erst erst teert teert irrt nett nett
+irrt irrt tarnt riet starr riet tarnt eines starr riet
+starr reist irrt irrt eines riet irrte tarnt starr riet
+reist reist riet tarnt tarnt tarnt teert eines reist
+teert irrt eines eines riet tarnt erst eines nett irrte
+erst teert starr erst erst starr tarnt riet erst erst
+nett riet erst irrte irrt erst riet starr teert irrt
+starr tarnt riet riet riet teert starr riet starr irrt
+irrte riet erst tarnt irrte irrte irrte irrte riet teert
+starr nett reist erst starr riet starr starr erst eines
+nett riet tarnt riet starr teert irrt starr irrt eines
+starr riet riet irrte teert tarnt starr teert irrte
+riet erst erst eines nette starren reist teert irrt erst
+reist riet erst</text>
+  </lesson>
+  <lesson>
+   <id>{831c64a2-dede-4529-9a2b-3b3f6bd026f5}</id>
+   <title>Grundhaltung (5) - bis 6 Zeichen</title>
+   <newCharacters></newCharacters>
+   <text>riet stritt irrte stritt nett stritt starr riet riet
+stritt reist nasser trennt tarnt tarnte trennt reist
+erst reiste tastet rettet nietet nietet reist trennt
+tarnt tarnt eines eines starr teert starr reist irrte
+erst stritt tarnte starr tarnte eines starr nasser stritt
+tarnte nasser stritt tarnte teerte tastet starr trennt
+trennt eines trennt trennt riet stritt erst nasser trennt
+trennt eines tarnt trennt tarnt tastet eines nett reist
+stritt nietet riet stritt riet trennt nasser irrte nett
+tarnte tarnte starr tarnte trennt irrte trennt reist
+netter riet reiste teerte riet starr tarnt trennt trennt
+trennt tastet rettet nietet trennt reist trennt riet
+netter trennt teert teerte trennt tarnte stritt riet
+starr stritt teerte nasser teert reist eines trennt
+riet tarnte stritt trennt riet irrt trennt nietet tarnte
+trennt riet trennt riet nasser riet tarnt nasser irrte
+tarnte starr stritt netter tarnte trennt netter irrt
+teert reist eines tarnte stritten stritt nasser tastet
+riet irrte einst</text>
+  </lesson>
+  <lesson>
+   <id>{42fa6e57-ab3b-407c-b958-2a8095fae4f5}</id>
+   <title>Zeigefinger: y und b</title>
+   <newCharacters>yb</newCharacters>
+   <text>yb byb bbyy yy yb yyb bb yyb ybby by yby ybby yy bby bb by
+bbb ybyy by bby yyby yb yb yyb ybyy bb bb bby yb bb byb by
+ybb bbbb by yy bb bbb yyby yb ybb ybbb yb ybb bbyy bb by
+bby ybbb bb bby yb ybb bb yy yy bby ybby yy byb ybyb yb yy
+byy byyb bb byy bbbb yy yy yby bbyy bb bb yyy yy yby byyy
+yy bbb bb yyy bbyb yy yyb yyyy by bbb yy by yyb bb bby by
+by bby bybb bb bby yb bb by yy bbb by bb bbyb ybyy</text>
+  </lesson>
+  <lesson>
+   <id>{f5caf3a0-b71e-4a89-a6ab-4208ef131968}</id>
+   <title>Alles Bisherige mit y und b</title>
+   <newCharacters></newCharacters>
+   <text>enterbt cystein beraten cyan betreibt reibt bietet
+beriet yeti rabiater rabiater yarn bietet betete
+beriet beriet brennt yeti rieb betrieb beraten bietet
+rabiater enterbte besser arty beraten bitte treibt
+bitten yeti beraten benennen cyanat betreibt rieb beraten
+treibt rieb yarn besser bayern beraten brannte bitten
+bitte siebte beraten beraten yeti besser brennt besser
+treibt betrieb brennt cyan enterbt benannt besser sabbert
+beriet siebte bitte siebte besser cystein brannte enterbt
+treibt siebte beriet yeti beraten bitte bayern beraten
+bietet bitten beraten bitte siebte yeti enterbt rabiater
+reibt bayern brannte enterbt cystein bitte bitte rieb
+brennt beraten cystein bitte yeti enterbte rabiater
+betete beraten siebte enterbt enterbt brannte siebte
+siebte enterbt enterbt sabbert enterbte sabbert enterbte
+bitten benennen betet beraten betreibt yeti bitte enterbt
+bitte reibt cystein bitten rabiater benennen betreibt
+betete benannt betete cyan brennt bayern sieb betrieb
+brennt brennt yeti</text>
+  </lesson>
+  <lesson>
+   <id>{f13e5ccf-4d8b-4b6a-aeb2-2505e89e0406}</id>
+   <title>Mittelfinger: o und l</title>
+   <newCharacters>ol</newCharacters>
+   <text>lo loo lo lol ol lll lo olo oo ol lol ollo lo ool oo oo llo
+lolo lo lo lll ooll lo loo oo ol oll lo llo oo ool oo llo
+lo ll ooo ll oo ol ooo ll olo oool oo llo lool lo oll oo
+oo lol ol ool oo oll oool oo ooo ooll oo loo ll oll oo ooo
+ll oo oll ol oo olo llol lo ooo oooo lo ll lo llo ll ooo
+ll ll ool oo lol lloo ol oll lool oo oll ooll ll oll ll ooo
+oo olo lolo ll olo ll lol ol loo ooll lo oll oloo</text>
+  </lesson>
+  <lesson>
+   <id>{ffca5db7-2cbe-4e3b-90d0-59f34cc48782}</id>
+   <title>Alles Bisherige mit o und l</title>
+   <newCharacters></newCharacters>
+   <text>entleert sorbiert stottern tost notiert entleert belastet
+belebt beseelte beseelt leistete stillte leitete blies
+beseelt notiert trottete lanciert belastet stottern
+erlitt lanciert bellt trottete stillte leistete leistete
+rostet bleibt toastete siliert beseelt belebt beseelt
+alterte trillert erobert leistete notiert isoliert trottet
+ablassen beseelte entleert beseelt rostete siliert lanciert
+rostet ablassen entleert notiert leistete erobert belastet
+toste beseelt toste tonloser altert leitet belastet
+sattelt sorbiert belastet rostete toller erlitt belebt
+tot tost lanciert tot leistete isoliert tost siliert
+sorbiert leistete entleert belebt trottet erlassen stillte
+isoliert erlitten beseelt belastet leitete beseelt beseelte
+belebt erobert isoliert altert beseelt beseelte sortiert
+trottete rostet lanciert lasiert stillte belastet stillte
+belastet altert belebt ebenso bellte entleert altert
+lanciert eilt belebt trottet bellte blieb belebt eroberte
+tot trottet stillte sattelte eilte belebt</text>
+  </lesson>
+  <lesson>
+   <id>{34fc2368-f846-45cd-aef9-2707a83038db}</id>
+   <title>Zeigefinger: ü und d</title>
+   <newCharacters>üd</newCharacters>
+   <text>ddd dddü ddd düü üüü düdd düü ddd düü ddüü üüd üüd üüd
+düü düüd ddü ddüü ddd düdü üdd üüüü üdü ddd üüü ddüd
+üdd üüüd üüd düü düüü üüü üdd üüü üüüü üüü ddü ddü üdd
+düdd düü düüd üüd ddd düüü üüd düü ddü düü üddd ddd
+ddd ddü ddüü ddd üüdd ddd üdüü üüü üüdd üüü üüü üüü
+üüüü üüü ddd üüüd ddd üüd ddü üdü düd üdd düüü üdü düdd
+ddü düd düd düü üüd üüüd üüü ddd üüü üüü üüdd düd üüü
+üdü üddd üüü üüd ddü üd</text>
+  </lesson>
+  <lesson>
+   <id>{925df11e-4693-4244-99bc-e49c3eb0b9a7}</id>
+   <title>Alles Bisherige mit ü und d</title>
+   <newCharacters></newCharacters>
+   <text>ratend linderte stellend rüttelte rollend strandet belebend
+donnerte rebelnd brennend rasend teilend alternd ablesend
+rostend dünner badete bastelnd blendete rüttelnd trennend
+stiebend überlas trennend alternd tastend brennend brennend
+dosiert ordnend rüttelt rodelnd trübte rodelnd sterbend
+rodend dünstet treibend brüllend abratend rettend rodend
+anratend sinternd erodiert beratend blendend endet landend
+tretend trübend dotiert sondiert rasend bündelnd lindernd
+rostend endete lobend bannend bündelnd rüttelte tretend
+abratend brennend rettend rüttelte sabbernd donnernd
+brütend erbend endend ordnend lobend rodet rodend ordnend
+niesend abratend teilend beendete ordnend rastend ordnete
+rodete ordnete betend siedend irrend dübelt rodend rettend
+belebend rüttelnd beendend lotsend bündelnd betend donnert
+überlas beendet bratend dübelt strebend trennend lesend
+bedient abirrend sondiert trübend erdend beendet rodete
+ladend erbend lesend ratend rüttelt trübt bleibend sonnend
+erdend eilend belebe</text>
+  </lesson>
+  <lesson>
+   <id>{53d55a83-5e5d-4a83-806f-b822e3e127bf}</id>
+   <title>Mittelfinger: , und w</title>
+   <newCharacters>,w</newCharacters>
+   <text>w,w ,w, ,,w ,w,, www ,,,, ,ww ,,w ,w,w ,,w ,w,w w,w
+www ,,, ww, ,,, ,ww ,ww ,,w, www ,w,, www ,www ,w, w,,w
+,,w w,ww ,,w w,w ,,,, ,,w ,ww, ,,w w,ww ,,w ,,w ,,,
+www ,,ww ww, wwww ,,w ww,, w,w ,,w w,, w,w wwww w,,
+w,,, w,w ww,, ww, ,,ww ww, w,, ,w, ,w, w,w, w,, w,,,
+ww, w,,, w,w ,,ww ,ww ww, ww, ,,w ,w,w ,w, ,w, ,,w ,www
+,,, ,,,, w,w wwww www ww,, ,,, w,,, ,ww wwww www ww,
+www, ,,w www w,w, w,, w,,w</text>
+  </lesson>
+  <lesson>
+   <id>{f65e9c98-75b4-48b5-8266-a3beb047639a}</id>
+   <title>Alles Bisherige mit , und w</title>
+   <newCharacters></newCharacters>
+   <text>west wettend wirbelt werdend, wartend witterte wellt
+wattiert, west west witternd, entwirrt warnend wandernd
+wirbelt bewirtet wattiert wendend winselte, wattiert
+wirbelt, wendend wittert weisend werbend, werdend werbend
+wobbelnd wirbt wellend, werdend wattiert bewirtet wandernd
+watet beweidet, warb warnend werbend wirbelnd warnend
+wartend wirbelnd erwartet, warnend werdend entwirrt, wellend
+werdend wartend wobbelnd wüster wirbt wirbt wattiert
+wandernd, wüster wanderte warb, windend wandernd, entwirrt
+wendend warb wattiert, wartend watend warb wartend erwartet
+wobbelnd, winselte wittert wollend, weisend werbend, wartend
+wartend, weisend west warb, wartend witternd werbend, werdend
+wartend, werdend, entwirrt erwidert wissend wellend west
+bewirtet wettend winselte wellt wandernd wattiert wattiert
+west entwirrt entwirrt bewirtet warnend werbend wirbelte
+warnend west wartend erwidert watete erwartet entwirrt
+beweidet wirbt würde würde warnend wettend beweidet
+warb entwirrt entwirrt bewirtet</text>
+  </lesson>
+  <lesson>
+   <id>{1c252b91-bab1-4fbf-b476-5fe64ab917bd}</id>
+   <title>Ringfinger: x und m</title>
+   <newCharacters>xm</newCharacters>
+   <text>mmx mmx mxmm mmm mxmx xxx mxx xxm mxm mmx xmx xxmx
+xmm xxx mxxx xxm mmm xxx xmx xxxx mmx xmm xxmx mxm mxxm
+mxm mmmx xmm mxm xmm mxm xxxx mxm mxxm xmm xxxm xxm
+mxm xmx xmmm xmm mmm xxx mxx xxmm xmx mxxx xmx xmmx
+xxm mxmx xmx xxxx mmx xmmx mmx mmmx mxx mxm xmx xxxm
+xxm xxx mmm xmx mxx xxm mmxm mxx xxx xxx mxm mxxx mmm
+xmx mmxm xxx mmmx mxx mxm xxm mxmm mmm xmmm xmx
+xmmm xmx mxxx mmx xxm mmm xmx mxmx</text>
+  </lesson>
+  <lesson>
+   <id>{6ed41d94-d44e-409f-b72f-d6f70bf446fc}</id>
+   <title>Alles Bisherige mit x und m</title>
+   <newCharacters></newCharacters>
+   <text>mobiler miniert ermordet amtiert sammelnd mildernd stammte
+atmete stimmend stimmend bestimmt mümmelnd trimmend
+bremst atmet reimend mattiert ermüdend übermalt boxt
+reimend mobiler sammelnd bremsend übermalt ermüdend
+widmete oxydiert stammte müder bemessen stammend ermüdend
+widmete amtiert mildernd mildert ermüdet enorm armiert
+ermordet bremsend textend bremsend textend reimend müder
+stimmend mildert, stürmt widmete armiert bestimmt bemessen
+ermattet übermalt mobiler sammelnd stimmend atmet stürmte
+normiert stürmte ermüdet mattiert entnimmt mündend ermüdend
+meinte müder bromiert, wimmerte ermüdend ermüdet bremste
+einsamer stürmt stimmend stammte atmete amtiert atmend
+eloxiert atmete stimmend, armiert ermüdet remixend ermordet
+übermalt mobiler ermüdend amtiert sammelt normiert ermüdet
+eloxiert ermüdend, übermalt wimmernd mündend stürmend
+ermüdend ermordet sammelnd sammelnd textend stimmend
+leimend reimend stammt remixend ermüdet ermüdend mattiert
+mattiert wimmelnd widmete milder trimmend</text>
+  </lesson>
+  <lesson>
+   <id>{4ec1f807-b5ea-4c1b-baa9-0e8b3f3b583e}</id>
+   <title>kleiner Finger: v und k</title>
+   <newCharacters>vk</newCharacters>
+   <text>vvv vkk kvk vvvv vvk vvvv vkk kvk kvk vvk kvvk vvv vk
+kvk vkk kkvk vkv kvv vkv vkvv kvv kvv vvkk kkv kkv kk
+kkv vvvk kvk kvv kkv vkvv kvk kkkk kvk vkk vvk kkvv
+kkk kkvv kkk kkv vvkv vvv vvkk vvv vvkk kkv kvk vvk
+kkvv kkv kvv kkkv vvk vkkv vkk vkkk vvv vvvk kkv kvk
+vvk vvk vvk vkv vkk kkv vkvk kvk vkv kkkk kvk vkk vv
+kvv vvvk kvv vvvv vvk vkvv kkv vvvv vkk vkvk vvk vkv
+vvk vvvv kkk kvk vvkv vkv vkk</text>
+  </lesson>
+  <lesson>
+   <id>{ce730cb2-586a-4151-b887-a337b2a91632}</id>
+   <title>Alles Bisherige mit v und k</title>
+   <newCharacters></newCharacters>
+   <text>dankte nickend bestickt verreist taktend verdammt verarmt
+verdarb verkokte knickst verband vermeint verwies verkokte
+kommend klirrte erstickt erdrückt verdünnt vibriert
+keimte verdeckt kalbte verdient verübte avisiert wickelt
+erkannt verdarb verrückt kanterte erstickt kalbte verdient
+verkokte, kreisend bockend verdarb sickern knistern avisiert
+verdirbt verweilt vereiste bekannt koksend drückend
+batikend blickend tickend bedeckt drückend erkannt erdrückt
+erstickt batikend erkannt kabbelte kenternd verband
+kariert verdammt kabbelt verwest knickst verübend krabbelt
+erblickt, verdünnt verkokte verwaist verwaist veraltet
+verreist verlost kandiert neckend verreist verdirbt
+nickte, serviert karrend, wickelnd knebelte knetet dicker
+verarmt verdient avisiert wickelnd knobelt taktend meckernd
+nickte kittet verrückt wackelnd bestickt verwest kadmiert
+bestickt nickend krümmte verdarb leckt leckt wackelnd
+verliebt krümmend verendet knobelnd verrückt, meckernd
+verdarb dankend verneint koksend kittet</text>
+  </lesson>
+  <lesson>
+   <id>{12a950e6-53eb-4d62-a22a-c4ec5ddcc557}</id>
+   <title>Zeigefinger: ö und p</title>
+   <newCharacters>öp</newCharacters>
+   <text>ööp ööp pöpö ööp pöp ppp öpöp öpö ööpö ööp pööp pöö
+ööö ppö pööö ööö ppp pöpp öpö ööp pöp öpp ppp pppp
+ööpö ööö öööö ööö öpö ööp öpp öpö pööp öpp ppöp öpö
+ööpp öpö öpöp pöp ppö ppöp pöö ppö ppp pppö öpp ppöp
+öpp pppp pöö öpö ööpö pöp pöpö öpö öpp öpöp pöö ppöö
+ppö öppp ppp öpp öpöp pöö pöp ppp pööp ööp öppö pöp
+ööpö öpö ööö öpp ööö öpö ppp pöö öpö öpp öööö pöp
+ööpp öpö pööp ööö ööpö ppö ppö ööö öp</text>
+  </lesson>
+  <lesson>
+   <id>{7dbd573a-ad26-4749-a720-797cebcd0823}</id>
+   <title>Alles Bisherige mit ö und p</title>
+   <newCharacters></newCharacters>
+   <text>lötete rülpst sparend rülpsend kapernd röstend tröstete
+piepsend klappend spendend röstet sparend piepst ablösend
+poröser lötet sperrt störend rülpsend perlte köderte
+panierte prickelt kaperte sperrte ablötend verlötet
+pendelnd trippelt betörend prallend poltert polternd
+entstört drapiert klappend nippend paddelte prickelt
+parierte krimpend pinselnd röstet spaltend dösend pendelnd
+steppt stöbert kaperte kippt pendelt strömt strömt störend
+polternd poltert pendelnd kapernd erprobte ablösend
+kapernd löste prallend, sparen kopiert passend pikiert
+parkt speiend ablösend tröstend pinselnd passten portiert
+lötete wippte kapert stöbernd wölbt rülpsend klappert
+dösend dösend erprobte röstete erprobt pendelnd rülpste
+ködert perlte piepst spaltend stülpt prassend steppt
+betörte ölend röstend pokernd empört tröstend poltert
+verödend sperrte ablötend tröstend prickelt piepste
+paspelnd polternd, strömend lispelnd parierte tröstend
+drapiert prickelt verlötet kappte krepiert pendelnd
+tröstet ablötend</text>
+  </lesson>
+  <lesson>
+   <id>{2249acfa-58a3-458d-9e18-651459a6783b}</id>
+   <title>Zeigefinger: u und g</title>
+   <newCharacters>ug</newCharacters>
+   <text>ugg uggu gug ggg gggg uug ggug gug uuu ggu ugu uguu
+ggu uuug guu uug gguu ugu gug guuu ugu guu ggug ggg
+ugg uggu ugg uggu ugg guug ugu ggg uuu ggg gggu uuu
+ggug ugu ugg uuu guug ggg gug ggug gug ggg gug uggg
+guu ugg guu ugg guuu gug uggu gug gug ugu ugg gggg guu
+uuuu ugu ggu ggg guu uuu gug ggg uug gugg ggg ggug uuu
+gugg ggu uguu guu uggu ugu gug uuuu gug uugg gug ggug
+ggg ugug ugu gguu uuu gu ugu</text>
+  </lesson>
+  <lesson>
+   <id>{39223564-f11f-44fd-b83b-f3014edeeb21}</id>
+   <title>Alles Bisherige mit u und g</title>
+   <newCharacters></newCharacters>
+   <text>getreten gelastet regiert goss springt gespien gluckend
+bedauert geblinkt gerast vertagt gegluckt gerostet tauiger
+gebrannt gelesen getrübt gleitend segelt ausübend geprasst
+murmelt angeregt murmelte getrennt gemimt mauernd gluckst
+angelte angelegt erregt geklagt trauernd versagt gelernt
+geiler klang, abgelöst erliegt gemurrt klauend gestoppt
+knausert gelöst geduckt belagert gegiert regelnd klaut
+gesummt gründend siegelte regnet gewonnen ringend gestreut
+gleitend öliger ablegend umrundet gebraten gemalt biegend
+gedüngt analog nagelnd geerdet getextet regiert garend
+ausgeübt gestoppt genickt, rudernd klauend geleckt ekliger
+geprangt gelöst gelegen entgast gewalkt gewartet siegelte
+versagt gewunden getrennt anlegend gekeimt tragend gepasst
+ermutigt kupiert miaute logierte klauend, obsiegt springt
+kraulend umarmt gekarrt gebend nötigt verbirgt klaut
+versiegt, rissiger gewürgt gegangen überbaut erlegt wringend
+murmelnd beringt regiert würgend gebürgt gewellt wiegte
+umrissen mangelnd geirrt</text>
+  </lesson>
+  <lesson>
+   <id>{5b8a217e-08ae-4327-a0f4-8f8dd81222b2}</id>
+   <title>Zeigfinger: ä und q</title>
+   <newCharacters>äq</newCharacters>
+   <text>qäq qqqq äqä qqä äää qqqä qäq qäää qqq ääq ääqq ää
+qäää äää äqä qääq ääq qäqä äqä qäq äää qäqq qäq ääq
+qää äqqä qää qqqq qqq qääq äää ääqq qää ääqä ääq qää
+qqq äqä qäq äää äqqq qää äqq qqä qqq äää qäää qqä qq
+äqä äqäq qqq qäq äqqq ääq ääq äqäq qää äääq qää äqä
+qqä qqä qqäq äää qqqq qää äää äääq qqä qää qqq ääq
+qäqq qqä qqq äqq qäqä qäq qqää ääq äqää qqä ääqq
+qäq äqqq ääq qäää qqä qää äääq äää qäää</text>
+  </lesson>
+  <lesson>
+   <id>{bd4b1373-7703-4db9-aa17-ec44049575b8}</id>
+   <title>Alles Bisherige mit ä und q</title>
+   <newCharacters></newCharacters>
+   <text>sägt gequakt, quellend träumte glättet geräumt trägt
+bestäubt gesägt säugte gequellt ertränkt geärgert betätigt
+ärgert älter bestäubt läutern getränt rät versäumt quakt
+gestärkt gequält läutete säuernd läuternd säuernd stärker
+quakte glättet gestärkt sättigt gedrängt glättet prägt
+geträumt drängt, geärgert quakte betäubt bläst lädiert
+läutend tränkend ertränkt drängend geräumt quäkt gelärmt
+gesäuert säumt gequält rändelnd sättigt läutete gelärmt
+quakend lärmte tränkend quellend, belädt sättigte sträubt
+säumt umsäumt sättigte gesäuert stärkend säuernd tränkend
+quakt getränt prägt träumend getränkt ständig gesäuert
+säumte gequält quakte ändert, erlässt träumt gerädert
+geärgert läuternd rädernd drängend belädt versäumt kälter
+gesäuert älter sträubte älter gedrängt läuternd lärmt
+getränkt gequellt lärmte sägt sättigte betätigt geträumt
+bequemer geärgert gesäuert geärgert näselnd plädiert
+prägte rätselnd getränkt prägt lärmt vergärte sägte
+bestäubt prämiert ärgerte geändert rändelnd ärgerte</text>
+  </lesson>
+  <lesson>
+   <id>{017e1213-7869-4ca8-b6da-74c1a4e41ce2}</id>
+   <title>Ringfinger: . und h</title>
+   <newCharacters>.h</newCharacters>
+   <text>... h.. h... h.. ... hhh. h..h .h. ..h. hh. ....
+h.h .h. ..hh .hh h.h .hh. hh. .h.h hh.h h.h ..h ...
+h.h hh.. .hh h... h.. .hh. h.. hhh .h. hh.h .hhh .hh
+h.h h.hh hhh ... ... h..h ..h hhhh hhh h.. ..hh ...
+.h. .h.h h.. hhh. hhh ..hh ... .hh. .h. hh.. ... ...
+..h .hh h.h .hh. hhh .hh hh. h.. ...h h.h ..h. hh. h.h
+.hh ... h.hh hhh ... ...h hhh hh.. hhh .hh. h.. hh.
+.h. h... hhh h.h hh.. .h. hhh .h..</text>
+  </lesson>
+  <lesson>
+   <id>{c501b113-d787-46e2-a436-d2a691789d25}</id>
+   <title>Alles Bisherige mit . und h</title>
+   <newCharacters></newCharacters>
+   <text>geschult wiehert hupt abhebend. hüstelnd buchend. vermehrt
+gehend. verdreht peitscht. halbiert sichtete wachsend
+hungernd schielte bedroht gehangen. erhört sehend nehmend
+geschult gehorcht hindert dröhnte beehrt verroht gehastet
+drehend begehrte.enthüllt bewohnt. klatscht rahmend. löschte
+gerochen knirscht belohnte bohrt. halbiert erlöscht scharrte
+gedacht. gehrend raucht wuchernd schlauer. bestuhlt bedacht
+scherend wachsend. thronend ahnend sehend hindernd rauchend
+begehrte wuchernd ausgehen gehaucht löscht peitscht
+erhebt hungernd wehend erhoben gerochen dröhnend erlöscht
+beehrt. scheut abhakend dröhnt. schürend. beruhigt
+hortet dröhnt geruht geruht gehadert erreicht erhebend
+erlosch erhebend. stiehlt beruhigt schwüler. pochiert
+thronend beichtet umhüllt schlug verdreht hockend erhebend
+gehupt gerahmt schürte erhebend wuchtete beschuht bedrohte
+schwüler bewohnte verbrüht erhoben gehupt stehlend wuchert
+hebend einlocht verhütet lehnt gedreht stahl sehend
+sehend erhebt getaucht hagelte</text>
+  </lesson>
+  <lesson>
+   <id>{6ab94503-537d-437e-90d9-eb3f6a7015ab}</id>
+   <title>Kleiner Finger: z und f</title>
+   <newCharacters>zf</newCharacters>
+   <text>fzf zfzz zfz fffz fzz zzf ffzz fff zfff zfz fzff zfz
+zfzf zzf fffz fzz fzz fzz ffzf fff fff zzz zfz zzzz
+fff fff fzf fzfz fzz fzzz zzf fzzf fzz zfzz fzz zzfz
+ffz fff ffz fff zfff zzz fzf fzf zff zzf fff fzfz zff
+ffzf fzz ffff zzf fzzf zzz zffz zzz zfzf ffz zfzz fzz
+fzzf fzz zzzf fff zzzf fff zzz zfz fff zffz fzf fff
+ffz fzz zff ffzf ffz ffzz zzf zfz fff zzz zfff ffz
+zffz fzf zzzz zzf zfff fzz fzff</text>
+  </lesson>
+  <lesson>
+   <id>{c3c5f233-fbf0-4ffc-8084-cd13843abfc3}</id>
+   <title>Alles Bisherige mit z und f</title>
+   <newCharacters></newCharacters>
+   <text>gekürzt befleckt flirtend fesselte gesalzen befreit
+tropfend zaubernd bedampft geflitzt gezogen verfehlt
+gezirpt gezuckt. gestutzt zerlegt gefaucht gefleht erfriert
+getrieft befleckt bezogen stumpfer zückend. folgend prüfend
+pfeifend verpatzt verfilmt ferkelt zerfiel fesselnd
+würziger flehte,folgend pfeifend paffte sniefend bezwingt
+entzückt kürzend. zernagte gerefft zückend gezischt gegiftet
+erfunden geholfen zirpten gefleht, frischer zirpten geflutet
+fordernd tüftelte. panzernd prüft versetzt gehofft löffelte
+kreuzt reifte hofiert surfend gesnieft prüft zensiert
+stolzer gezuckt fixierte fesselnd fliegend geprüft pflügend
+zugehend anzapfen kürzte walzte. zwirnte firmiert flutend
+getupft gezückt flirtete gezupft kürzer gezupft verzinnt
+gezehrt zahmer gezehrt falzend panzernd kreuzend gefreit
+verfilmt zündete führend verheizt gegrenzt verfault
+gefreit formte klaffend zwang forschte wetzend gebolzt
+befragt verzagt erfolgen befreit treffend tüftelnd gefixt
+pufft fliegend frierend stutzend</text>
+  </lesson>
+  <lesson>
+   <id>{cfd46502-311a-4ca4-a2a1-43079e985109}</id>
+   <title>Kleiner Finger: j und ß (ea)</title>
+   <newCharacters>jß</newCharacters>
+   <text>ßße aejj jßa eeej eaß jßß ßae aaea jßa jßße ßeß ejj
+eßßß jßj ßaj aaj eßj eeß jae ßaje eje aßß ßeaa ßea jjß
+aße jjße eja jja aßß ßaj ßaje jßa eeej ßaa jjea aea
+eae ßßee eaj jee aeaj jjj aaje ßaß aßjj aaß ajaj aee
+ßja jaa jjß ajj ßßa eae ajja eee eje jaea ßaj ßaa aßaj
+jea aaea ejj jßee ajj ajaj eßj aejß ßea ßaae eeß ßjjj
+ßee jaa ejjß ajß aje ßjea jje ßaa jjj jje jaee eej ßee
+ßjj ßaje ßja ßea ßßjß ja</text>
+  </lesson>
+  <lesson>
+   <id>{0fc13303-fc9f-4c51-b3be-c05ecbc3386e}</id>
+   <title>Alles Bisherige mit j und ß</title>
+   <newCharacters></newCharacters>
+   <text>gekürzt befleckt flirtend fesselte gesalzen, befreit
+tropfend zaubernd bedampft geflitzt gezogen verfehlt
+gezirpt gezuckt. gestutzt zerlegt gefaucht gefleht erfriert
+getrieft befleckt bezogen stumpfer zückend folgend prüfend
+pfeifend verpatzt verfilmt, ferkelt zerfiel fesselnd
+würziger flehte folgend pfeifend paffte sniefend bezwingt
+entzückt kürzend zernagte gerefft zückend gezischt gegiftet
+erfunden geholfen zirpten gefleht frischer zirpten geflutet
+fordernd tüftelte panzernd prüft versetzt gehofft löffelte
+kreuzt reifte hofiert surfend. gesnieft prüft zensiert
+stolzer gezuckt fixierte. fesselnd fliegend geprüft pflügend
+zugehend anzapfen kürzte, walzte zwirnte firmiert flutend
+getupft gezückt flirtete gezupft kürzer gezupft verzinnt
+gezehrt zahmer gezehrt falzend panzernd kreuzend gefreit
+verfilmt zündete führend verheizt gegrenzt verfault
+gefreit formte klaffend zwang forschte wetzend gebolzt
+befragt verzagt erfolgen befreit treffend tüftelnd gefixt
+pufft fliegend frierend stutzend</text>
+  </lesson>
+  <lesson>
+   <id>{02e801cc-115a-4136-8adb-c676251f749b}</id>
+   <title>Alles mit Großbuchstaben (1)</title>
+   <newCharacters>KOYVGCLßZHAEIUDTRNSFXQÄÜÖBPWMJ</newCharacters>
+   <text>Stöße Ficks Goethe Therme Kanute Turme Inzest Pegeln
+Dackel Atoms Heidin User Sekret Zeile Besuch Sims Areals
+Kupon Pedals Juden Ananas Lupen Nevada Gigolo Mütze
+Kubus Pfusch Zweck Anitas Hasen maßest Mörtel Garns
+Hobbys Zwirns Erfurt ACL Nord Power Legat Vista Satzes
+Halmen Beilen Firsts Kragen Lutz Reh Büste Erich Markov
+Oase Kinne NEC Moses Teckel Vakanz Tanne Nabel Akku
+Hanaus Erlen Leute Modell Euter Mode Lümmel Galopp Schutt
+Slips Folter Stuhls Sandra Plasma Darm Sektes Ethik
+Komet Zirkel Ponton Tanten Manual Ruhms Modem Kursor
+Vogt Taunus Flaute Fahnen Pute Säften Chören XIII Gunst
+Bikers Baske Bohle</text>
+  </lesson>
+  <lesson>
+   <id>{818992fd-a702-4224-b694-cff8cc4d32f2}</id>
+   <title>Alles mit Großbuchstaben (2)</title>
+   <newCharacters></newCharacters>
+   <text>Spikes Farnen Hofs Solo Duell Korse Karo Togos Zebras
+fußte Ankers Radler Merans GHz Kanüle Börse Mönchs Photos
+Taxen Sven Pfand Syrer Fügens Schals Diebin Tau Maul
+Vogtes Geiß Mühsal Hohnes Hilfen Maxima Hai Rassen Ahnens
+Betrag Bühnen Kaviar Solist Grieße Hefen Bockes Egons
+Füße Lokals Borke Zahns Porno Teer Fachs Anode Wörter
+geißle Koller Zyklen MByte Gebell Sekret Heidis Bunsen
+Tuch Senner Mopeds Rute Toyota Apache Klotz Sippen Schmu
+Nests Hemden Truhen Andy Texel Skalps Zölle Sylts Bonner
+Kabels Solde Karree Obrist Bocks Banjo Teich Angel Reizes
+Halden Oliven Sopran Pfahl Mips Quart Faunen Jeside
+Glas</text>
+  </lesson>
+  <lesson>
+   <id>{3ebf9aad-ec29-4af1-b31b-c271a520a784}</id>
+   <title>Alles mit Großbuchstaben (3)</title>
+   <newCharacters></newCharacters>
+   <text>Kür Pilz Ammen Rande Puma Thor Graden GByte Roggen Zeuges
+Mumm Obdach Wal Wurfs Adolf Henry Gängen Pfunde Nudel
+Nation Erichs Gels Minen Vogel Orbits Gabler Tabula
+Osram Graden Vamps Marius Plauze Flecke Geiß Latte Hähne
+Hedys Choral Dogmen Makels Palmen Säcken Russen Akteur
+Ethnie Futur Tutu Nvidia Laken Rabats Föhren Puppen
+Kellen Bravur Cremes BGS Urne Pirsch Dürers Info Dativs
+Eders Wadis Beate Quota Etons Schmu Legat Trio Boxers
+Täler Dreher Tuffen Cowboy Anhöhe Heidi Leinen Lineal
+Pratze Zechen Hagen Dachau Zulage Punker Wägens Monde
+Compaq Angabe Zions Abfall Egel Kannen Covern Miene
+Maurer Setup Junis</text>
+  </lesson>
+  <lesson>
+   <id>{c5d33eb7-3c97-4e86-8c06-9e77c071df95}</id>
+   <title>Alles mit Großbuchstaben (4)</title>
+   <newCharacters></newCharacters>
+   <text>Trense Noah Zeh Genres Satyrn Musen Kuhlen Shops Ghanas
+Ämtern Lava Amok Areale Zieher Essig Fackel Atom Kugel
+Pillen Knäste Hinz Kalis Infos Lyzeum Kutter Opern Karton
+Kojote Ruins Dumas Ölzeug Unna Böhmin Compaq Meilen
+Gebers Rühe Dämons Kaufes Seins Bauch Rotor Muskel Job
+Puffs ADSL Kran Geräts Kahns Fürth Lenden Bibel Müll
+Koran Packer TCP Talons Bauch Genf Wände Theken Diva
+Rufern Bisse Betts Hektik Heldin Bitmap Senfes Talges
+Kümmel Epilog Ing Piste Gauls Titan VHS Bikers Hexers
+Hauer Welt Gelump Ehrens Teddy Tür Torus Bonner Steak
+Hanf Lohnes Mai Minima Dolly VfB Dauer Tatars Muskat
+Dauer Soleis SOS Arktis Busses Güter User Yin Bads Mini
+Sudans Fiats Dynamo Zombie Butze Prinz Wartes Schub
+Abel Nagers</text>
+  </lesson>
+  <lesson>
+   <id>{69338fb1-e70f-4acd-86fa-d5e4fb0d62e1}</id>
+   <title>Alles mit Großbuchstaben (5)</title>
+   <newCharacters></newCharacters>
+   <text>Statut Clinch Kübel Chören Pogrom Drüsen maßen
+Getöse Mammon Beamte Lesbe Calvin Kontos Beine Höhe
+Krach Georg Bockes Jesu Judäa Loches Kaff Bügel Einrad
+Bonn Saucen Nord Infekt Kelvin Algier Gelage Mensch
+Büste Erle Ivan Teeei Pasten Trafos bloßer Sehens Stühle
+BGS Gracht Erbse Pharao Tool Mädel Folter Fazits Abk
+Zoff Eklats Wirten Civil Bsp Horsts Annie Böhmen Drähte
+Tumult Ubuntu Sättel Kittel Nicole Iberer Plauze Dildo
+Rumpf Sole Schiit Saigon Duft Kerl Mode Merck Bandes
+Mutter Kalif Absud Bäder Bibeln Brokat Hälfte Spurts
+Jacke Manz Lemma Hanfes API Kurier Sälen Sorte Donner
+Sushi Adamek Kinos Klicks Salve Flegel Briefe PCI Sparre
+Haare Trios Arkade Leber müßig Haitis Rommel See Wurmes
+Köcher Sprung Beamer Stucks Adler Phon Zofen Stegen
+Oblate Atoll Butzen Hanne Spatel Teigen Orwell Colt
+Neides
+</text>
+  </lesson>
+  <lesson>
+   <id>{1fe53951-88a0-4c62-91cd-c578fe2fa4d8}</id>
+   <title>Symbole: ( ) { } * ?</title>
+   <newCharacters>(){}*?</newCharacters>
+   <text>{{* (*} {*)* (?( *}) }{?} }?{ {*) *{) ({( )(} *{?* {({
+*}) {?}( *?( }?{ *}{( {){ ?**) *}* {(){ ){} (}{ ({})
+))* )*}{ ?({ ?}) }{}{ ?*} {(* ?)(} {)( {)) ?*? *)) ))(
+*(}* ?{) ()?( {}} (}) }*( ()) (?) )?}? )}) {)* {{{{
+?)? ()?{ **? }?*? *{( *({ }*)? {}} {){* )}) }(?? }{}
+(}} )?} }*} {*)} (?? ??} }}({ ?)* }?{{ *** ((* **}{
+)?{ )??( ()? }?{ )}? *{) (?? ?(} }?) *({) *{* )))} (*{
+({( *}? )??* }{{ )}{) *?
+</text>
+  </lesson>
+  <lesson>
+   <id>{7918282a-2187-4593-8c30-b1f16dfe218a}</id>
+   <title>Symbole: \ / - : @</title>
+   <newCharacters>\/-:@</newCharacters>
+   <text>-@@ \/// //\ :@@/ /@/ @\/ @@-\ -@\ @-- @:-@ :-: :-:@
+:@@ \:/@ \/: ::-: :@\ \/\ -// @\\ /:/ @:\ -\@ \@-
+-/- @:@ ::\ :\-- \/: :/\ \@/@ /\\ --\ -/@ -/:: @//
+@@- \@:\ \\- :\- //@@ @@: \-/ /\\@ ::/ @/:/ :-\ \//\
+@\- --- @-@- -\: /@- \-\ \-/ /\:/ /:\ :::\ :\\ --\ @-:
+@/\: /\: -:-@ @@/ -\/ :\: :/: /\-@ /:/ \/\ :/-\ \/:
+\// @:/ @@/ :/\: /\/ /::- @/@ \/\: /@- -/@ :@@/ -/:
+/@:/ /:\ @-\ -:-\ @\\: /\@ :-/ :-/</text>
+  </lesson>
+ </lessons>
+</course>
