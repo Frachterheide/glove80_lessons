@@ -1,2 +1,2 @@
 # glove80_lessons
-Contains lessons and layouts for Moergo's Glove80
+Contains KTouch lessons & a layout for Moergo's Glove80.
